@@ -1,10 +1,15 @@
-# my_tests
+# toku_app
 
-A new Flutter project.
+it is a simple app to learn Japanese language
+
+## video
+
+
+https://github.com/nrmeenmohamed/toku_app/assets/128254998/e4333915-38b0-42ac-9030-ad8ea3c68fe2
+
+
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
